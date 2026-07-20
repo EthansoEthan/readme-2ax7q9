@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://EthansoEthan.github.io/readme-2ax7q9/sitemap.xml
